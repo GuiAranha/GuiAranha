@@ -1,7 +1,10 @@
 ## Hi, My name is Guilherme Aranha.
 
 ## Full Stack developer.
-I live in Brazil and I love to travel and learn new cultures, I'm also a huge video game enthusiast and an investor in cryptocurrencies.
+Sou apaixonado por tecnologias e tudo que elas nos tem a oferecer, atualmente estudando desenvolvimento Web Full-Stack e Engenharia da Computação.
+Formado em Técnico em Informática e Desenvolvimento Front-End e cursando Back-End.
+
+Venho realizando vários projetos, os quais envolvem tecnologias como Javascript, Typescript, ReactJs, Redux, Docker, NodeJs, ExpressJs e MySQL.
  
 <div align="center">
   <a href = "mailto:guilherme.aranha.ga@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
