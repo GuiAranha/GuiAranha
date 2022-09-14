@@ -1,4 +1,4 @@
-## Olá sou Guilherme Aranha.
+## Olá, sou Guilherme Aranha.
 
 ## Full Stack developer.
 Sou apaixonado por tecnologias e tudo que elas nos tem a oferecer, atualmente estudando desenvolvimento Web Full-Stack e Engenharia da Computação.
