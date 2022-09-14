@@ -15,7 +15,6 @@ Venho realizando vários projetos, os quais envolvem tecnologias como Javascript
 
 <div>
   <a href="https://github.com/guiaranha">
-  <img src="https://github-readme-stats.vercel.app/api?username=guiaranha&show_icons=true&theme=dracula&include_all_commits=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiAranha&layout=compact&theme=dracula" />
 </div>
   
