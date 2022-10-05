@@ -19,17 +19,17 @@ Venho realizando vários projetos, os quais envolvem tecnologias como Javascript
  <td align="center" colspan="11"></td>
 </tr> 
 <tr>
-<td><a href="https://github.com/joaopauloaramuni" target="_blank"><img src="https://github.com/GuiAranha/GuiAranha/tree/main/public/img/github.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://github.com/joaopauloaramuni" target="_blank"><img src="https://github.com/GuiAranha/GuiAranha/tree/main/public/img/github.png" width="50px" height="50px"/></a>
 </td>
-<td><a href="mailto:joaopauloaramuni@gmail.com" target="_blank"><img src="https://github.com/GuiAranha/GuiAranha/tree/main/public/img/gmail.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="mailto:joaopauloaramuni@gmail.com" target="_blank"><img src="https://github.com/GuiAranha/GuiAranha/tree/main/public/img/gmail.png" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://wa.me/5531980402103" target="_blank"><img src="https://github.com/GuiAranha/GuiAranha/tree/main/public/img/wpp.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://wa.me/5531980402103" target="_blank"><img src="https://github.com/GuiAranha/GuiAranha/tree/main/public/img/wpp.png" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.instagram.com/joaopauloaramuni/" target="_blank"><img src="https://github.com/GuiAranha/GuiAranha/tree/main/public/img/insta.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://www.instagram.com/joaopauloaramuni/" target="_blank"><img src="https://github.com/GuiAranha/GuiAranha/tree/main/public/img/insta.png" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.linkedin.com/in/joaopauloaramuni/" target="_blank"><img src="https://github.com/GuiAranha/GuiAranha/tree/main/public/img/linkedin.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://www.linkedin.com/in/joaopauloaramuni/" target="_blank"><img src="https://github.com/GuiAranha/GuiAranha/tree/main/public/img/linkedin.png" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://slack.com/app_redirect?channel=UVD9N6VCL"><img src="https://github.com/GuiAranha/GuiAranha/tree/main/public/img/slack.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://slack.com/app_redirect?channel=UVD9N6VCL"><img src="https://github.com/GuiAranha/GuiAranha/tree/main/public/img/slack.png" width="50px" height="50px"/></a>
 </td>
 </tr>
 <tr>
