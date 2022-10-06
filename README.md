@@ -45,31 +45,31 @@ Venho realizando vários projetos, os quais envolvem tecnologias como Javascript
 
 ### <img height="20" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-sayaka.gif"/>Linguagens e ferramentas:
 
-<code><a href="https://www.gnu.org/software/bash/" target="_blank"><img height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/bash.png?raw=true"/></a></code>
+<code><a href="https://www.gnu.org/software/bash/" target="_blank"><img height="32" src="https://github.com/GuiAranha/GuiAranha/blob/main/public/img/bash.png?raw=true"/></a></code>
 &nbsp; 
-<code><a href="https://www.python.org/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/python.png?raw=true"/></a></code>
+<code><a href="https://www.python.org/" target="_blank"><img width="32" height="32" src="https://github.com/GuiAranha/GuiAranha/blob/main/public/img/python.png?raw=true"/></a></code>
 &nbsp; 
-<code><a href="https://www.w3schools.com/html/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/html.svg"/></a></code>
+<code><a href="https://www.w3schools.com/html/" target="_blank"><img width="32" height="32" src="https://github.com/GuiAranha/GuiAranha/blob/main/public/img/html.svg"/></a></code>
 &nbsp; 
-<code><a href="https://www.w3schools.com/css/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/css.svg"/></a></code>
+<code><a href="https://www.w3schools.com/css/" target="_blank"><img width="32" height="32" src="https://github.com/GuiAranha/GuiAranha/blob/main/public/img/css.svg"/></a></code>
 &nbsp; 
-<code><a href="https://www.w3schools.com/js/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/js.png"/></a></code>
+<code><a href="https://www.w3schools.com/js/" target="_blank"><img width="32" height="32" src="https://github.com/GuiAranha/GuiAranha/blob/main/public/img/js.png"/></a></code>
 &nbsp; 
-<code><a href="https://pt-br.reactjs.org/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/react.png"/></a></code>
+<code><a href="https://pt-br.reactjs.org/" target="_blank"><img width="32" height="32" src="https://github.com/GuiAranha/GuiAranha/blob/main/public/img/react.png"/></a></code>
 &nbsp; 
-<code><a href="https://www.mysql.com/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/mysql.png"/></a></code>
+<code><a href="https://www.mysql.com/" target="_blank"><img width="32" height="32" src="https://github.com/GuiAranha/GuiAranha/blob/main/public/img/mysql.png"/></a></code>
 &nbsp; 
-<code><a href="https://www.postgresql.org/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/postgresql.png"/></a></code>
+<code><a href="https://www.postgresql.org/" target="_blank"><img width="32" height="32" src="https://github.com/GuiAranha/GuiAranha/blob/main/public/img/postgresql.png"/></a></code>
 &nbsp; 
-<code><a href="https://www.mongodb.com/pt-br" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/mongodb.png"/></a></code>
+<code><a href="https://www.mongodb.com/pt-br" target="_blank"><img width="32" height="32" src="https://github.com/GuiAranha/GuiAranha/blob/main/public/img/mongodb.png"/></a></code>
 &nbsp; 
-<code><a href="https://nodejs.org/en/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/nodejs.png"/></a></code>
+<code><a href="https://nodejs.org/en/" target="_blank"><img width="32" height="32" src="https://github.com/GuiAranha/GuiAranha/blob/main/public/img/nodejs.png"/></a></code>
 &nbsp; 
-<code><a href="https://www.docker.com/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/docker.png"/></a></code>
+<code><a href="https://www.docker.com/" target="_blank"><img width="32" height="32" src="https://github.com/GuiAranha/GuiAranha/blob/main/public/img/docker.png"/></a></code>
 &nbsp; 
-<code><a href="https://www.heroku.com/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/heroku.png"/></a></code>
+<code><a href="https://www.heroku.com/" target="_blank"><img width="32" height="32" src="https://github.com/GuiAranha/GuiAranha/blob/main/public/img/heroku.png"/></a></code>
 &nbsp; 
-<code><a href="https://code.visualstudio.com/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/vs.png"/></a></code>
+<code><a href="https://code.visualstudio.com/" target="_blank"><img width="32" height="32" src="https://github.com/GuiAranha/GuiAranha/blob/main/public/img/vs.png"/></a></code>
 </div>
 
 -----
