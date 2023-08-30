@@ -1,5 +1,5 @@
 <div align="justify">
-<i><b>Olá</b>, sou o <b>Guilherme Aranha</b>, tenho 22 anos, sou de Leme-SP e sou programador.</i><br /><i>Atualmente sou <b>estudante</b> de Desenvolvimento Web Full Stack na <a href="https://www.betrybe.com/" target="_blank">Trybe</a> e cursando Engenharia da Computação na <a href="https://www.fho.edu.br/" target="_blank">FHO</a>.</i>
+<i><b>Olá</b>, sou o <b>Guilherme Aranha</b>, tenho 22 anos, sou de Leme-SP e sou programador.</i><br /><i>Atualmente sou <b>formado</b> de Desenvolvimento Web Full Stack na <a href="https://www.betrybe.com/" target="_blank">Trybe</a> e cursando Engenharia da Computação na <a href="https://www.fho.edu.br/" target="_blank">FHO</a>.</i>
 </div>
 
 -----
